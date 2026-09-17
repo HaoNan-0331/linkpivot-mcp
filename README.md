@@ -17,8 +17,8 @@
 | nsfocus-nf-mcp | 绿盟 NF 系列防火墙（北向 REST API） | 183 | 0.2.0 | ✅ 可下载 |
 | yaxin-firewall-mcp | 亚信安全防火墙 | 23 | 0.1.0 | ✅ 可下载 |
 | playwright-browser-mcp | 浏览器自动化（通用工具，非设备对接） | 24 | 0.0.79 | ✅ 可下载 |
-| asg-firewall-mcp | 上元信安 ASG 防火墙 | 166 | 0.1.0 | 即将上线 |
-| hillstone-mcp | 山石网科防火墙 | 94 | 0.1.0 | 即将上线 |
+| asg-firewall-mcp | 上元信安 ASG 防火墙 | 166 | 0.1.0 | ✅ 可下载 |
+| hillstone-mcp | 山石网科防火墙 | 94 | 0.1.0 | ✅ 可下载 |
 
 持续上新中。每对接一款新设备会发布新的 `.mcpb` 包。
 
